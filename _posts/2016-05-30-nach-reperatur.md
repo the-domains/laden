@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Wir Reparieren auch
-datePublished: '2016-05-30T14:51:55.920Z'
-dateModified: '2016-05-30T14:51:55.529Z'
+datePublished: '2016-05-30T14:55:17.565Z'
+dateModified: '2016-05-30T14:55:06.695Z'
 title: ''
 author:
   - name: ''
