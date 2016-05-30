@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: nach reperatur
-datePublished: '2016-05-30T10:56:34.933Z'
-dateModified: '2016-05-30T10:56:25.457Z'
+description: Wir Reparieren auch
+datePublished: '2016-05-30T14:51:55.920Z'
+dateModified: '2016-05-30T14:51:55.529Z'
 title: ''
 author:
   - name: ''
@@ -19,5 +19,5 @@ url: nach-reperatur/index.html
 _type: Article
 
 ---
-nach reperatur
+Wir Reparieren auch
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3db1c7dcfcbc38e1a619c0a0abe26ab2d3d6494d.jpg)
