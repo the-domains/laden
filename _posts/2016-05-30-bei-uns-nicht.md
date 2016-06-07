@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Bei uns nicht
-datePublished: '2016-05-30T11:02:04.036Z'
-dateModified: '2016-05-30T11:02:03.617Z'
+datePublished: '2016-06-07T07:45:29.215Z'
+dateModified: '2016-06-07T07:45:28.816Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-30-bei-uns-nicht.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: bei-uns-nicht/index.html
 _type: Article
 
